@@ -1,75 +1,17 @@
-# Nuxt Minimal Starter
+# ☕ Kahve Dünyası Web Clone (Nuxt 3)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Bu proje, Web Programlama dersi için Nuxt 3 ve Firebase kullanılarak geliştirilmiş bir e-ticaret arayüzü klonudur.
 
-## Setup
+## 🚀 Proje Hakkında
+Gerçek bir web sitesinin mimarisini incelemek ve modern framework'ler ile (Vue/Nuxt) dinamik bir yapı kurmak amacıyla hazırlanmıştır.
 
-Make sure to install dependencies:
+## 🛠 Öne Çıkan Özellikler
+- **Nuxt 3 Mimari:** SSR (Server Side Rendering) avantajları kullanılarak geliştirildi.
+- **Firebase Entegrasyonu:** Kullanıcı yönetimi (Auth) ve veri saklama (Firestore) işlemleri yapıldı.
+- **Dinamik Sepet:** Ürün ekleme/çıkarma işlemleri Vue state yönetimi ile sağlandı.
+- **Responsive:** Mobil ve masaüstü uyumlu tasarım.
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 💻 Kurulum ve Çalıştırma
+Projeyi yerelinizde çalıştırmak için:
+1. `npm install` (Bağımlılıkları yükle)
+2. `npm run dev` (Geliştirici modunda başlat)
